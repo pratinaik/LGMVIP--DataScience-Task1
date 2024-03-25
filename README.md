@@ -1,1 +1,2 @@
 # LGMVIP--DataScience-Task1
+The Iris Flower Classification project is a classic machine learning problem that involves predicting the species of iris flowers based on certain features. The dataset typically consists of measurements of four attributes: sepal length, sepal width, petal length, and petal width, along with the corresponding species of iris flowers. The goal is to build a model that can accurately classify iris flowers into one of three species: Setosa, Versicolor, or Virginica.
